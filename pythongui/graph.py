@@ -4,7 +4,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 def update_figure(data):
     ax = fig.axes
-    x = [int(i[0]) for i in data]
+    x = [i[0] for i in data]
     y = [int(i[1]) for i in data]
     ax[0].plot(x, y, 'r-')
     figure_canvas_agg.draw()
