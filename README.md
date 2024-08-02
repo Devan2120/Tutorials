@@ -1,7 +1,7 @@
 # Tutorial
 Tutorial programs done.
 
-Basics: Futura Labs Internship
+Python Basics: Futura Labs Internship
 
 Dynamic Programming: https://youtu.be/oBt53YbR9Kk?feature=shared
 
